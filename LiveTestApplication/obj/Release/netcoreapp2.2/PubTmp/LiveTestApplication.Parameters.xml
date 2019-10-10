@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="LiveTestApplication20191002010303" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\_LiveTestApplication\\LiveTestApplication\\LiveTestApplication\\obj\\Release\\netcoreapp2\.2\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
